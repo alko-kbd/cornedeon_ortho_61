@@ -18,3 +18,7 @@ Install Vial build environment.
 Copy all files to directory: vial-qmk/keyboards/alko/cornedeon_ortho_61/
 
 qmk compile -kb alko/cornedeon_ortho_61 -km vial
+
+### Bootmagic
+
+Hold button on row:0,col:1 and connect USB cable.
